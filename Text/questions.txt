@@ -1,0 +1,15 @@
+1|What is Java?|Programming Language|Operating System|Database|Hardware|1
+2|Which concept allows the same method name with different parameters?|Inheritance|Polymorphism|Encapsulation|Abstraction|2
+3|Which keyword is used to create an object in Java?|class|new|this|static|2
+4|Which keyword is used for inheritance in Java?|this|extends|super|implements|2
+5|Which OOPS concept binds data and method together?|Inheritance|Polymorphism|Encapsulation|Abstraction|3
+6|Which keyword is used to prevent inheritance?|static|final|const|private|2
+7|What is used to hide implementation details in Java?|Encapsulation|Abstraction|Polymorphism|Inheritance|2
+8|What type of inheritance is NOT supported in Java classes?|Single|Multilevel|Hierarchical|Multiple|4
+9|Which keyword refers to the current object?|this|super|new|null|1
+10|Which keyword is used to call the parent class constructor?|this|parent|super|extends|3
+11|Which feature allows method overriding?|Encapsulation|Abstraction|Inheritance|Compilation|3
+12|Which access specifier allows access within the same package only?|public|private|protected|default|4
+13|Which keyword is used to define a constant in Java?|constant|final|static|const|2
+14|Which concept allows one class to acquire properties of another?|Encapsulation|Polymorphism|Inheritance|Abstraction|3
+15|Which of these is NOT an OOPS concept?|Encapsulation|Polymorphism|Compilation|Inheritance|3
